@@ -12,7 +12,7 @@
   "author": "Timmy Lee",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-svelte": "^4.0.5",
     "sass": "^1.25.0",
